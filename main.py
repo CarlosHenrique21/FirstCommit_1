@@ -6,5 +6,8 @@ def print_hi(name):
         print("Sad, get well!")
 
 if __name__ == '__main__':
-    print_hi('Carlos Henrique')
+    print_hi('Carlos Henrique') # Print_hi é o print que tem meu nome
 
+
+# Código comentado para teste do git
+# Estou aprendendo git
